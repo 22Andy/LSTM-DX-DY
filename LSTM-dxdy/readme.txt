@@ -16,7 +16,7 @@ Test1 al conjunto sobrante de los 5
 esos modelos fueron con los datos de pets de framerate de 7.5 al cual se le denomina pixel_pos_2-csv"
 
 
-y los que tienen la palabra simplificado tambien es con pets, solo que con framerate 3 frames por segundo
+y los que tienen la palabra simplificado tambien es con pets, solo que con framerate 3.75 frames por segundo
 que ese es denominado pixel_pos.csv 
 
 
